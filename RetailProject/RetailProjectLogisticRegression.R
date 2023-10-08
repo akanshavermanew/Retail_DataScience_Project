@@ -1,9 +1,5 @@
 # Building Retail project using logistic regression model for classification
-#can refer another code from here https://rpubs.com/Rajib/530022
-
 #auc score came 0.7 the more the auc score the better the model is
-
-#here we have not find cutoff as it was not asked to submit hard classes(cutoff)
 
 library(tidymodels)
 library(visdat)
