@@ -1,10 +1,5 @@
 # Building Retail project using random forest model for classification
-#(here change is in line 35(update_role) and 36(update_role) different from 'RetailProjectRandomForest2.R' file)
-#i.e i have dummies of most of the columns here and in other file all that columns are dropped  
 #here auc score is 0.814
-#can refer another code from here https://rpubs.com/Rajib/530022
-
-#here we have not find cutoff as it was not asked to submit hard classes(cutoff)
 
 library(tidymodels)
 library(visdat)
